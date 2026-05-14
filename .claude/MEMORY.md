@@ -1,0 +1,3 @@
+- [User: Igor Fazlyev](memory/user_role.md) — Go learner via claude-course/; comfortable with basics, still learning slice/idiom subtleties
+- [Guidance style for learning projects](memory/feedback_guidance_style.md) — guide step-by-step, don't write the full code for the user
+- [Project: todo CLI](memory/project_todo_cli.md) — single-file Go CLI; design decisions made and list output spec
