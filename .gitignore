@@ -1,0 +1,8 @@
+# Runtime data
+tasks.json
+
+# Compiled binary
+/todo
+
+# macOS
+.DS_Store
